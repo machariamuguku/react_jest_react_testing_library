@@ -14,7 +14,7 @@ This is a tutorial on learning to test React Applications with Jest and React Te
 clone, install dependencies and run
 
 ```bash
-git clone https://github.com/machariamuguku/react_apollo_graphql.git
+git clone https://github.com/machariamuguku/react_jest_react_testing_library.git
 
 cd react_apollo_graphql
 yarn #Install dependencies
